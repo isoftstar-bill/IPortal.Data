@@ -1,3 +1,4 @@
+<<<<<<< .mine
 this is the test file.
 
 
@@ -6,3 +7,13 @@ this is dev branch
 =======
 11-2 test
 >>>>>>> develp
+=======
+a
+
+
+
+
+
+
+
+>>>>>>> .theirs
